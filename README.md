@@ -5,7 +5,7 @@
 Cscalp во время запуска не должен быть открыт.
 Работает только с фьючерсами и только бинанса.
 
-Видео работы: https://www.youtube.com/watch?v=36dl3Nu-glQ
+Видео работы: https://www.youtube.com/watch?v=cbLUQegTwF0
 
 # Предостережение:
 Перед началом работы ознакомьтесь с лицензией и создайте резервную копию настроек стаканов и графиков Cscalp (C:\Users\WINDOWS_USER_NAME\AppData\Roaming\CScalp\Visualizer, где WINDOWS_USER_NAME - имя пользователя Windows)

@@ -1,5 +1,4 @@
-# Автоматический пересчёт рабочих объемов фьючерсов на бирже Binance для Cscalp.
-# Automatic recalculation of working amounts of futures on the Binance exchange for Cscalp.
+# Автоматический пересчёт рабочих объемов фьючерсов на бирже Binance для Cscalp. / Automatic recalculation of working amounts of futures on the Binance exchange for Cscalp.
 
 # Как это работает?
 Скрипт получает от пользователя рабочие объемы в USDT в формате "300 600 900 1200 100", получает с Binance цену и шаг цены для каждого фьючерса, для каждого рабочего объема рассчитывает количество монет (рабочий объем / цена // шаг цены  * шаг цены), проходится по всем файлам с настройками cscalp и записывает рассчитанные значения.

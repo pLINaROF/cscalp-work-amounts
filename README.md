@@ -20,8 +20,8 @@ Cscalp во время запуска не должен быть открыт.
 # Подготовка
 Перед запуском программы нужно положить файлы cscalp_work_amounts.py и run.bat в папку с настройками стаканов Cscalp (путь ниже).
 
-* Для версии Cscalp ниже v1.0.106: C:\Users\WINDOWS_USER_NAME\AppData\Roaming\CScalp\Visualizer\mvs_cs (WINDOWS_USER_NAME нужно заменить на название пользователя windows (можно посмотреть в настройках или в папке C:\Users).
-* Для Cscalp v1.0.106 и выше: C:\Program Files (x86)\FSR Launcher\SubApps\CScalp\Data\MVS
+* **Для версии Cscalp ниже v1.0.106:** C:\Users\WINDOWS_USER_NAME\AppData\Roaming\CScalp\Visualizer\mvs_cs (WINDOWS_USER_NAME нужно заменить на название пользователя windows (можно посмотреть в настройках или в папке C:\Users).
+* **Для Cscalp v1.0.106 и выше:** C:\Program Files (x86)\FSR Launcher\SubApps\CScalp\Data\MVS
 
 Для удобства запуска можно создать ярлык для run.bat на рабочем столе (ПКМ - Отправить - Рабочий стол (создать ярлык)).
 

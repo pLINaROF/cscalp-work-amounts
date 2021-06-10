@@ -51,7 +51,6 @@ for symbol in exchangeInfo["symbols"]:
 
 
 # Запись в Cscalp
-# Папка со стаканами: C:\Users\WINDOWS_USER_NAME\AppData\Roaming\CScalp\Visualizer\mvs_cs
 def update_work_amounts_in_cscalp_tmp(file, wa):
     tmp = ET.ElementTree(file=file)
     for user_levels in tmp.iter('First_WorkAmount'):

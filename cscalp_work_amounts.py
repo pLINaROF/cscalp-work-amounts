@@ -8,7 +8,7 @@ WorkAmountsUsdt = list(map(int, WorkAmountsUsdt.split(' ')))
 if len(WorkAmountsUsdt) != 5:
     exit('Объемов должно быть 5')
 
-exchangeInfo = requests.request("GET", "https://www.binance.com//fapi/v1/exchangeInfo").json()
+exchangeInfo = requests.request("GET", "https://www.binance.com/fapi/v1/exchangeInfo").json()
 prices = requests.request("GET", "https://www.binance.com/fapi/v1/ticker/price").json()
 # print(prices)
 futures_prices = {}
